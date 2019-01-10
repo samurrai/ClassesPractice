@@ -1,0 +1,7 @@
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.exe.config
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.exe
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\bin\Debug\ClassesPractice.pdb
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.exe
+C:\Users\ШадикьянР\source\repos\ClassesPractice\ClassesPractice\obj\Debug\ClassesPractice.pdb
